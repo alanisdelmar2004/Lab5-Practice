@@ -1,3 +1,3 @@
-# Lab5-Practice
+# Lab3-Practice
 
 Quick Demo!
